@@ -1,3 +1,2 @@
 # Bioschemas_Staff_exchanges
-## Date : Oct 4-8 2018
-## Institut Henri-Poincaré Paris
+## Date : Oct 4-8 2018  [Institut Henri-Poincaré Paris](https://http://www.ihp.fr/).
