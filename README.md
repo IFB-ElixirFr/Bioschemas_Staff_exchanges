@@ -6,11 +6,11 @@ Creating how-to guides on [Bioschemas](http://bioschemas.org/) covering profile 
 The how-to guides will be used initially by the [French Institute of Bioinformatics](https://www.france-bioinformatique.fr/) (IFB) as a proof of concept and to gather feedback. The IFB comprises 32 bioinformatics platforms spanning the entire territory and gathering 398 people from different areas in bioinformatics. Additionally, trying out the how-to guides will help Elixir-FR to engage the French community to add Bioschemas metadata on their web pages and resources in order to improve the findability of IFB resources (databases, tools, training material, people and events).
 
 #### Participants
-Leyla Garcia EMBL-EBI
-Ricardo Arcilla EMBL-EBI
+- Leyla Garcia [EMBL-EBI](https://www.ebi.ac.uk/)
+- Ricardo Arcilla [EMBL-EBI](https://www.ebi.ac.uk/)
 
-Laurent Bouri IFB
-Victoria Dominguez Del Angel IFB
-Jacques Van Heldel IFB
+- Laurent Bouri [IFB](https://www.france-bioinformatique.fr/)
+- Victoria Dominguez Del Angel [IFB](https://www.france-bioinformatique.fr/)
+- Jacques Van Heldel [IFB](https://www.france-bioinformatique.fr/)
 
-Niall Beard University of Manchester
+- Niall Beard [University of Manchester](https://www.manchester.ac.uk/)
