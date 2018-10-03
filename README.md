@@ -14,3 +14,10 @@ The how-to guides will be used initially by the [French Institute of Bioinformat
 - Jacques Van Heldel [IFB](https://www.france-bioinformatique.fr/)
 
 - Niall Beard [University of Manchester](https://www.manchester.ac.uk/)
+
+#### Learning Objectives
+
+1. Understand the process and gain practical experience of marking-up on Tools, Databases, Training material and training event using Bioschemas
+2. Understand what the added Bioschemas compliance layers are and how to use them.
+3. Learning how to tags your own ressources
+4. Which tools can help me to tag and to validate your own ressources with Bioschemas
