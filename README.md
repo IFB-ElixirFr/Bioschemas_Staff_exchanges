@@ -11,7 +11,7 @@ The how-to guides will be used initially by the [French Institute of Bioinformat
 
 - Laurent Bouri [IFB](https://www.france-bioinformatique.fr/)
 - Victoria Dominguez Del Angel [IFB](https://www.france-bioinformatique.fr/)
-- Jacques Van Heldel [IFB](https://www.france-bioinformatique.fr/)
+- Jacques van Helden [IFB](https://www.france-bioinformatique.fr/)
 
 - Niall Beard [University of Manchester](https://www.manchester.ac.uk/)
 
