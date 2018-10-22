@@ -1,12 +1,14 @@
 ### Hands On
 
+##### Testing the structural data:
+https://developers.google.com/search/tools/
+What is the difference between this two Training Material resources?
+https://tess.elixir-europe.org/materials/user-interface-and-features-jupyter-use-jupyter-notebooks-in-galaxy
+https://galaxyproject.github.io/training-material/topics/galaxy-ui/tutorials/galaxy-intro-jupyter/tutorial.html
+
 Split into 4 teams
 To add the following TrM at the IFB website
 Add metadata based on EDAM Ontology (EDAM ONTOLOGY (link with other resources)
 <a href="https://ifb-elixirfr.github.io/edam-browser/">DAG EDAM Browser </a>)
 
-##### UTesting the structural data:
-https://developers.google.com/search/tools/
-What is the difference between this two Training Material resources?
-https://tess.elixir-europe.org/materials/user-interface-and-features-jupyter-use-jupyter-notebooks-in-galaxy
-https://galaxyproject.github.io/training-material/topics/galaxy-ui/tutorials/galaxy-intro-jupyter/tutorial.html
+
